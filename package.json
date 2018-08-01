@@ -2,7 +2,7 @@
   "name": "clouddo-view",
   "version": "1.2.0",
   "description": "A Vue.js project for admin",
-  "author": "bootdo@163.com",
+  "author": "junya.meng@baozun.com",
   "private": true,
   "scripts": {
     "server": "node server/bin/www",
